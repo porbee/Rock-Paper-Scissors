@@ -32,7 +32,7 @@ The decision tree that the machine is based of can be represented as:
                                /  |  \
                               /   |   \
                              /    |    \
-                         Rock   Paper   Scissors
+                         Rock   Paper   Scissors                         
                           |       |        |
                           |       |        |
                           |       |        |
